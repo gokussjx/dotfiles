@@ -56,7 +56,8 @@ plugins=(
     colorize
     command-not-found
     sudo
-    zsh-syntax-highlighting
+    fast-syntax-highlighting
+    #zsh-syntax-highlighting
     zsh-autosuggestions
     history-substring-search
     zsh-interactive-cd
